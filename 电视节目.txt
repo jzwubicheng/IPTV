@@ -1,0 +1,9 @@
+香港卫视，http://61.58.60.247:9000/live/255.m3u8
+湖南卫视，http://liveal.quanmin.tv/live/1517240064.m3u8
+凤凰美洲，http://live.italkdd.com/ts027/channel_056.m3u8
+凤凰中文HD，http://live.fengshows.com/live/PCC_500k/index.m3u8
+GOODTV美食旅游，http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch14-2.m3u8
+战旗影院，http://dlhls.cdn.zhanqi.tv/zqlive/80918_cr4oy.m3u8
+经典电影，http://rotation.vod.zlive.cc/channel/1200.m3u8
+电影轮播，http://hlstx.plu.cn/onlive/fb38a63b40b848b6aaf294a82cb39cd1.m3u8
+时代影像电影台，http://rotation.vod.zlive.cc/channel/1258.m3u8
